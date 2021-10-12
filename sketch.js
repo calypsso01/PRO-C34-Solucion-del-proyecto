@@ -56,7 +56,7 @@ function draw() {
     }
   }
 
-  // Title
+  // Título
   fill("#FFFF");
   textAlign("center");
   textSize(40);
